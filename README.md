@@ -1,0 +1,1 @@
+STM32L0_TEST
